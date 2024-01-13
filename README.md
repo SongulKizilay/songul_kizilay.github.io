@@ -1,1 +1,1 @@
-# songul_kizilay.giyhub.io
+# songul_kizilay.github.io
